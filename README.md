@@ -2,7 +2,7 @@
 
 A modern full-stack application that aggregates job listings from multiple sources, including Adzuna and GoRemote, and lets users search them via a single, intuitive interface.
 
-You can use a live version of this application at [https://sueraisty.com/job-search-app](https://sueraisty.com/job-search-app)
+You can use a live version of this application at [https://sueraisty.com/job-search-app](https://sueraisty.com/job-search-app). No login is necessary.
 
 ![Job Search App Screenshot](https://placeholder-for-screenshot.com)
 
@@ -78,7 +78,7 @@ The following technologies were used to develop and deploy this application:
 
 - Node.js v22 or later
 - Git
-- [direnv](https://direnv.net/) (optional, to use .envrc file in step 3
+- [direnv](https://direnv.net/) (optional, to use .envrc file in step 3)
 
 ### Installation
 
